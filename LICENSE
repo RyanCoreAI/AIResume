@@ -1,0 +1,47 @@
+# JianMiao Public Showcase License
+
+Copyright (c) 2026 RyanCoreAI.
+
+This repository is a public showcase and documentation repository for JianMiao
+("简喵"). It does not publish the application's frontend source code, backend
+source code, model prompts, database migrations, deployment scripts, production
+configuration, user data, logs, or secrets.
+
+## Permitted uses
+
+You may:
+
+- read this repository for product understanding;
+- share links to this repository or to https://jianmiao.yanxai.com;
+- quote short excerpts with attribution for non-commercial commentary, review,
+  learning notes, or news-style discussion.
+
+## Not permitted without written permission
+
+You may not:
+
+- copy, redistribute, or repackage JianMiao screenshots, product flows, brand
+  assets, interface text, documents, or diagrams as your own product material;
+- use this repository to create, market, or sell a substantially similar
+  commercial product;
+- imply endorsement by JianMiao, RyanCoreAI, or yanxai.com;
+- use the JianMiao name, logo, screenshots, or documentation in paid products,
+  templates, courses, advertisements, or landing pages;
+- scrape or reproduce the hosted product experience in bulk.
+
+## No source-code license
+
+No software source-code license is granted by this repository. If source code is
+published in the future, it will carry its own explicit license.
+
+## Security and privacy
+
+Do not submit real resumes, job descriptions containing confidential employer
+information, personal contact details, API keys, passwords, or other sensitive
+data in public issues or discussions.
+
+## No warranty
+
+The documentation and screenshots are provided for informational purposes only,
+without warranty of any kind. JianMiao's AI-generated suggestions are not hiring
+advice, legal advice, or a guarantee of interview or offer outcomes.
